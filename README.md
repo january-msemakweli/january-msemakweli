@@ -54,6 +54,41 @@ I work at the intersection of **population health**, **applied statistics**, and
 
 ---
 
+## Graphs, maps & insights
+
+### Contribution activity (last 31 days)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=january-msemakweli&theme=react-dark&hide_border=true&bg_color=0d1117&color=2E7D5E&line=2E7D5E&point=1a5f4a" width="100%" alt="Activity graph" />
+
+### Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/january-msemakweli/january-msemakweli/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/january-msemakweli/january-msemakweli/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
+</picture>
+
+*Snake updates daily via [GitHub Actions](.github/workflows/snake.yml).*
+
+### OSS Insight widgets (graphs & maps)
+
+*Live insights from [OSS Insight](https://ossinsight.io).*
+
+| Activity trends | Collaborative productivity – last 28 days |
+| ----------- | ----------- |
+| <a href="https://ossinsight.io/analyze/january-msemakweli/january-msemakweli"><img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=1151569510&image_size=auto" alt="Activity trends" width="100%" /></a> | <a href="https://ossinsight.io/analyze/january-msemakweli/january-msemakweli"><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=1151569510&image_size=auto" alt="Collaborative productivity" width="100%" /></a> |
+
+| Star geographic distribution (map) | Star history (graph) |
+| ----------- | ----------- |
+| <a href="https://ossinsight.io/analyze/january-msemakweli/january-msemakweli"><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=1151569510&image_size=auto" alt="Star map" width="100%" /></a> | <a href="https://ossinsight.io/analyze/january-msemakweli/january-msemakweli"><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=1151569510&image_size=auto" alt="Star history" width="100%" /></a> |
+
+| Currently working on – last 28 days | Repo performance – last 28 days |
+| ----------- | ----------- |
+| <a href="https://ossinsight.io/analyze/january-msemakweli"><img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=178833633&image_size=auto" alt="Currently working on" width="100%" /></a> | <a href="https://ossinsight.io/analyze/january-msemakweli/january-msemakweli"><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1151569510&image_size=auto" alt="Repo stats" width="100%" /></a> |
+
+*More widgets: [OSS Insight](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral)*
+
+---
+
 ## Experience
 
 | Role | Where | What |
