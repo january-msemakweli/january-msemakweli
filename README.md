@@ -66,6 +66,62 @@
   <a>
     <img alt="Quarto" src="https://img.shields.io/badge/Quarto-%2375AADB.svg?logoColor=white">
   </a>
+  &emsp;
+  <a>
+    <img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-%231A162D.svg?logo=tidyverse&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-%23276DC3.svg?logo=r&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Excel" src="https://img.shields.io/badge/Excel-%23217346.svg?logo=microsoftexcel&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?logo=powerbi&logoColor=black">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black">
+  </a>
+  &emsp;
+  <a>
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+  </a>
 </p>
 
 ## What I do
