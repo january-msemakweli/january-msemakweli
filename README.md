@@ -6,11 +6,15 @@
 
 ![](header_.png)
 
+<p><img align="right" src="animation_500_kxa883sd.gif" alt="coding" /></p>
+
 ### Epidemiologist × Data Scientist
 
 - Research Assistant, **Johns Hopkins Bloomberg School of Public Health**
 - ScM Epidemiology (General Epidemiology & Methodology)
 - Baltimore, MD | Dar es Salaam, Tanzania
+
+<br clear="right"/>
 
 ## My tech stack
 
@@ -132,10 +136,6 @@
 ---
 
 <div align="center">
-
-<img src="animation_500_kxa883sd.gif" width="300" alt="coding" />
-
-<br />
 
 *Open to collaborations in epidemiologic methods, applied data science, public health surveillance, and reproducible research.*
 
