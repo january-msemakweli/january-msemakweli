@@ -10,7 +10,7 @@
 
 <br/>
 
-<b><a href="#-introduction">About</a></b> &nbsp;•&nbsp; <b><a href="#-experience">Experience</a></b> &nbsp;•&nbsp; <b><a href="#-selected-projects">Projects</a></b> &nbsp;•&nbsp; <b><a href="#-publications--service">Publications</a></b> &nbsp;•&nbsp; <a href="https://januarymsemakweli.com/">Website</a> &nbsp;•&nbsp; <a href="https://orcid.org/0009-0007-6743-8479">ORCID</a> &nbsp;•&nbsp; <a href="https://www.researchgate.net/profile/January-Msemakweli-2">ResearchGate</a> &nbsp;•&nbsp; <a href="#-contact">Contact</a>
+<b><a href="#-introduction">About</a></b> &nbsp;•&nbsp; <b><a href="#-experience">Experience</a></b> &nbsp;•&nbsp; <a href="https://januarymsemakweli.com/">Website</a> &nbsp;•&nbsp; <a href="https://orcid.org/0009-0007-6743-8479">ORCID</a> &nbsp;•&nbsp; <a href="https://www.researchgate.net/profile/January-Msemakweli-2">ResearchGate</a> &nbsp;•&nbsp; <a href="#-contact">Contact</a>
 
 <br/>
 
@@ -102,21 +102,6 @@ I work at the intersection of **population health**, **applied statistics**, and
 | **Research Assistant** | Johns Hopkins BSPH, Epidemiology | R pipelines, data harmonization, causal & comparative analyses |
 | **Data Scientist / Analyst** | Mo Dewji Foundation | Data collection & reporting systems, dashboards, M&E tools |
 | **BAP Fellow** | Charm City Care Connection (SOURCE Baltimore) | Geospatial systems for harm-reduction outreach, geocoding, spatial analytics |
-
----
-
-<br/>
-
-## 🚀 Selected projects
-
-| Project | Description |
-| ------- | ----------- |
-| **MoAfyaCamps** | Real-time data collection and reporting for community health camps |
-| **JMDSFCv1.0** | R/Shiny app for cross-format dataset conversion with real-time progress |
-| **RegressThat** | Shiny app for modified Poisson regression with diagnostics |
-| **Climate & Health** | Linking climatic variability to infectious disease outcomes |
-
-*Details in pinned repositories.*
 
 ---
 
